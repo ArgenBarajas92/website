@@ -1,4 +1,4 @@
-<p align="center">
+2<p align="center">
 	<br>
 	<a href="https://tachiyomi.org">
 		<img src="./.github/assets/logo.png" width="90"/>
