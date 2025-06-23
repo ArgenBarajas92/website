@@ -1,4 +1,4 @@
-<p align="center">
+ee1d40415e040025c955779a3510495a4437d1f9<p align="center">
 	<br>
 	<a href="https://tachiyomi.org">
 		<img src="./.github/assets/logo.png" width="90"/>
